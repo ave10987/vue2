@@ -1,0 +1,10 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "A Vue.js project",
+  "author": "ave10987 <ave10987@naver.com>",
+  "private": true,
+  "scripts": {
+  	"postinstall": "npm install express"
+  }
+}
